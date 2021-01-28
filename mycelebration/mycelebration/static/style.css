@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;700;800&family=Roboto:wght@100&display=swap');
+
+body, html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Bitter', serif;
+}
+
+.col-xl-12{
+	transform: translateY(+80%);
+}
+
+.col-xl-7{
+	transform: translateX(-5%);
+}
+
+.padding{
+	transform: translateY(+40%);
+}
+
+h1{
+	font-weight: 800;
+}
+
+h2{
+	font-weight: 700;
+}
+
+.btn-link{
+	font-weight: 500;
+}
+
+.modal-title{
+	font-weight: 700;
+	transform: translateX(+70%);
+}
+
+.btn-primapy{
+	font-weight: 500;
+	color: #0000FF;
+}
+
+.table{
+	transform: translateY(+20%);
+	margin-left: 415px;
+	table-layout:fixed; width:750px;
+}
+
+th{
+	font-weight: 700;
+}
+
+td{
+	font-weight: 400;
+	width:300px;
+	overflow:hidden;
+}
